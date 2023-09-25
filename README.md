@@ -3,6 +3,7 @@
 - 🌱 i’m currently learning C++
 - 💞️ i’m looking to collaborate on ...
 - 📫 how to reach me: letsgosalmon@gmail.com
+- 🌐 website: https://letsgosalmon.github.io
 
 still in school so, not the best programmer out there.
 trying to learn C++
