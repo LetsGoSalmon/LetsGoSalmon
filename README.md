@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @LetsGoSalmon
-- 👀 I’m interested in Programming, AI, Music and 
-- 🌱 I’m currently learning Machine Learning and AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: letsgosalmon@gmail.com
+- 👋 hi, i’m @LetsGoSalmon
+- 👀 i’m interested in programming, music, and fixing this damn planet
+- 🌱 i’m currently learning C++
+- 💞️ i’m looking to collaborate on ...
+- 📫 how to reach me: letsgosalmon@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LetsGoSalmon&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+still in school so, not the best programmer out there.
+trying to learn C++
+reach me by letsgosalmon@gmail.com (why you anyway would do that)
 
 <!---
 LetsGoSalmon/LetsGoSalmon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
