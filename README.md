@@ -9,8 +9,6 @@ still in school so, not the best programmer out there.
 trying to learn C++
 reach me by letsgosalmon@gmail.com (why you anyway would do that)
 
-![Stats Stats](https://github-readme-stats.vercel.app/api?username=LetsGoSalmon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
 ![Statistics](https://github-readme-stats.vercel.app/api?username=LetsGoSalmon&show_icons=true&bg_color=DEG,fa9372,e67097&title_color=fff&text_color=fff)
 [![LetsGoSalmon](https://github-readme-stats.vercel.app/api/pin/?username=LetsGoSalmon&repo=LetsGoSalmon&bg_color=DEG,fa9372,e67097&title_color=fff&text_color=fff)](https://github.com/LetsGoSalmon/LetsGoSalmon)
 
