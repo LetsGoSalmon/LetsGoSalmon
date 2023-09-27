@@ -10,6 +10,7 @@ trying to learn C++
 reach me by letsgosalmon@gmail.com (why you anyway would do that)
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=LetsGoSalmon&show_icons=true&bg_color=DEG,fa9372,e67097&title_color=fff&text_color=fff)
+![Statistics](https://github-readme-stats.vercel.app/api/top-langs?username=LetsGoSalmon&show_icons=true&bg_color=DEG,fa9372,e67097&title_color=fff&text_color=fff)
 [![LetsGoSalmon](https://github-readme-stats.vercel.app/api/pin/?username=LetsGoSalmon&repo=LetsGoSalmon&bg_color=DEG,fa9372,e67097&title_color=fff&text_color=fff)](https://github.com/LetsGoSalmon/LetsGoSalmon)
 
 <!---
